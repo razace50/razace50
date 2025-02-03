@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Mern Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://rajeshsunar.com.np](https://rajeshsunar.com.np)
+- 👨‍💻 My portfolio and can also contact me from [https://rajeshsunar.com.np](https://rajeshsunar.com.np)
 
 - 💬 Ask me about **Mern Stack**
 
